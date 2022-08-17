@@ -1,0 +1,3 @@
+/home/decs/camera_test/CMakeFiles/rebuild_cache.dir
+/home/decs/camera_test/CMakeFiles/camera_test.dir
+/home/decs/camera_test/CMakeFiles/edit_cache.dir
